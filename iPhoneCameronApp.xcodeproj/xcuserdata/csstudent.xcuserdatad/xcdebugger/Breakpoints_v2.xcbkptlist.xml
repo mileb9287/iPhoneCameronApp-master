@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPhoneCameronApp/ViewController.swift"
+            timestampString = "532805754.924296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPhoneCameronApp.ViewController.__deallocating_deinit"
+                  moduleName = "iPhoneCameronApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csstudent/Desktop/Development/iPhoneCameronApp/iPhoneCameronApp/ViewController.swift"
+                  timestampString = "531410935.11056"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPhoneCameronApp.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iPhoneCameronApp.ViewController"
+                  moduleName = "iPhoneCameronApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csstudent/Desktop/Development/iPhoneCameronApp/iPhoneCameronApp/ViewController.swift"
+                  timestampString = "531410935.115227"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPhoneCameronApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iPhoneCameronApp.ViewController"
+                  moduleName = "iPhoneCameronApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csstudent/Desktop/Development/iPhoneCameronApp/iPhoneCameronApp/ViewController.swift"
+                  timestampString = "531410935.117203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "283">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPhoneCameronApp.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;iPhoneCameronApp.ViewController&gt;"
+                  moduleName = "iPhoneCameronApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csstudent/Desktop/Development/iPhoneCameronApp/iPhoneCameronApp/ViewController.swift"
+                  timestampString = "531410935.119309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPhoneCameronApp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;iPhoneCameronApp.ViewController&gt;"
+                  moduleName = "iPhoneCameronApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/csstudent/Desktop/Development/iPhoneCameronApp/iPhoneCameronApp/ViewController.swift"
+                  timestampString = "531410935.121605"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPhoneCameronApp/ViewController.swift"
+            timestampString = "532805754.926802"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
